@@ -1,3 +1,5 @@
+Demo video: https://youtu.be/_aofxqvCgbU
+
 Aethra is a marketplace that provides a fast and seamless user experience for trading NFTs. Additionally, it features a launchpad platform for NFT releases. Moreover, users can easily create and publish their own NFT collections and generate NFTs using AI.
 # Main Features:
 **- Trade and Sell NFTs: Effortless NFT trading within the marketplace.**
