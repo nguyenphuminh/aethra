@@ -7,6 +7,7 @@ Aethra is a marketplace that provides a fast and seamless user experience for tr
 ![1.PNG](https://cdn.dorahacks.io/static/files/18d6a3f1c7b6af9285e515a45ca96ace.PNG)
 
 **- NFT Launchpad: Facilitates the kickstarting of potential NFT projects, enabling user-driven minting of project NFTs**
+
 ![2.PNG](https://cdn.dorahacks.io/static/files/18d6a40fa011da77f84b4f4454880912.PNG)
 
 **- Mint NFTs with AI: Provides the capability for users to generate NFT images using AI and mint their own NFTs.**
