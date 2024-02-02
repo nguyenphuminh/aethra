@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@fastify/cors": "^8.5.0",
+    "aws-sdk": "^2.1546.0",
+    "axios": "^1.6.7",
+    "ethers": "^6.10.0",
+    "fastify": "^4.25.2",
+    "kubo-rpc-client": "^3.0.2",
+    "level": "^8.0.0",
+    "multiformats": "^13.0.1",
+    "openai": "^4.26.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.7",
+    "typescript": "^5.3.3"
+  }
+}
